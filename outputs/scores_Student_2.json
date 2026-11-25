@@ -1,184 +1,250 @@
-[
-  {
-    "q": 1,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 2,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected C",
-    "page": 1
-  },
-  {
-    "q": 3,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 4,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected C",
-    "page": 1
-  },
-  {
-    "q": 5,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 6,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected A",
-    "page": 1
-  },
-  {
-    "q": 7,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 8,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 9,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected A",
-    "page": 1
-  },
-  {
-    "q": 10,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 11,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 12,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 13,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 14,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 15,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected B",
-    "page": 1
-  },
-  {
-    "q": 16,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 17,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected B",
-    "page": 1
-  },
-  {
-    "q": 18,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 19,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 20,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected B",
-    "page": 1
-  },
-  {
-    "q": 21,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Correctly describes supervised learning using labeled examples.",
-    "page": 2
-  },
-  {
-    "q": 22,
-    "awarded": 0.0,
-    "max": 2,
-    "reasoning": "Describes regression, not overfitting or poor generalization.",
-    "page": 2
-  },
-  {
-    "q": 23,
-    "awarded": 0.0,
-    "max": 2,
-    "reasoning": "Describes KNN normalization, not regression variable relationships.",
-    "page": 2
-  },
-  {
-    "q": 24,
-    "awarded": 0.0,
-    "max": 2,
-    "reasoning": "Defines preprocessing instead of listing ML challenges.",
-    "page": 2
-  },
-  {
-    "q": 25,
-    "awarded": 0.0,
-    "max": 2,
-    "reasoning": "Describes gradient descent, not ML application areas.",
-    "page": 2
-  },
-  {
-    "q": 35,
-    "awarded": 0.5,
-    "max": 2,
-    "reasoning": "Names RBF kernel but omits higher-dimensional mapping.",
-    "page": 3
-  }
-]
+{
+  "version": "v2",
+  "scores": [
+    {
+      "q": 1,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 2,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'A', expected C",
+      "page": 1
+    },
+    {
+      "q": 3,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 4,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'A', expected C",
+      "page": 1
+    },
+    {
+      "q": 5,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 6,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'C', expected A",
+      "page": 1
+    },
+    {
+      "q": 7,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 8,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 9,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'C', expected A",
+      "page": 1
+    },
+    {
+      "q": 10,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 11,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 12,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 13,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 14,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 15,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'A', expected B",
+      "page": 1
+    },
+    {
+      "q": 16,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 17,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'A', expected B",
+      "page": 1
+    },
+    {
+      "q": 18,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 19,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 20,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'C', expected B",
+      "page": 1
+    },
+    {
+      "q": 21,
+      "awarded": 1.0,
+      "max": 2.0,
+      "reasoning": "Mentions labeled data and learning from labels, but definition is imprecise and informal.",
+      "page": 2
+    },
+    {
+      "q": 22,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Off-topic; discusses regression instead of identifying overfitting from train/test accuracy gap.",
+      "page": 2
+    },
+    {
+      "q": 23,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Student answer discusses KNN normalization, not regression analysis; off-topic.",
+      "page": 2
+    },
+    {
+      "q": 24,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Student describes preprocessing steps, not two ML challenges; off-topic and incomplete.",
+      "page": 2
+    },
+    {
+      "q": 25,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Off-topic: describes gradient descent instead of listing data science applications.",
+      "page": 2
+    },
+    {
+      "q": 26,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 27,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 28,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 29,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 30,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 31,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 32,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 33,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 34,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 35,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Answer is incoherent and does not explain higher-dimensional transformation or non-linear boundary.",
+      "page": 3
+    }
+  ]
+}

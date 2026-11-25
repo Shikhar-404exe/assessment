@@ -1,226 +1,250 @@
-[
-  {
-    "q": 1,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 2,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected C",
-    "page": 1
-  },
-  {
-    "q": 3,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 4,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected C",
-    "page": 1
-  },
-  {
-    "q": 5,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 6,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected A",
-    "page": 1
-  },
-  {
-    "q": 7,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 8,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 9,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 10,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 11,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 12,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 13,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 14,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 15,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 16,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 17,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected B",
-    "page": 1
-  },
-  {
-    "q": 18,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 19,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 20,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 21,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Correctly describes supervised learning with labeled data and target output.",
-    "page": 1
-  },
-  {
-    "q": 22,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Identifies overfitting: good on training, poor on unseen/generalization.",
-    "page": 1
-  },
-  {
-    "q": 23,
-    "awarded": 0.0,
-    "max": 2,
-    "reasoning": "Describes feature selection, not regression relationships between variables.",
-    "page": 1
-  },
-  {
-    "q": 24,
-    "awarded": 1.0,
-    "max": 2,
-    "reasoning": "Mentions data collection and model choice; partial coverage of challenges.",
-    "page": 2
-  },
-  {
-    "q": 25,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Gives healthcare disease prediction and other valid ML applications.",
-    "page": 2
-  },
-  {
-    "q": 26,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Correctly contrasts structured (spreadsheet/CSV) and semi-structured (tags/XML).",
-    "page": 2
-  },
-  {
-    "q": 27,
-    "awarded": 1.0,
-    "max": 2,
-    "reasoning": "Describes outlier detection via IQR only; omits handling methods.",
-    "page": 2
-  },
-  {
-    "q": 28,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Defines preprocessing as cleaning data before model training.",
-    "page": 3
-  },
-  {
-    "q": 29,
-    "awarded": 0.5,
-    "max": 2,
-    "reasoning": "Links normalization to K-NN but gives incorrect/vague reasoning.",
-    "page": 3
-  },
-  {
-    "q": 31,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Correctly states k is the number of clusters in K-means.",
-    "page": 3
-  },
-  {
-    "q": 32,
-    "awarded": 1.0,
-    "max": 2,
-    "reasoning": "Names neighbors in KNN correctly but includes weights and k-means.",
-    "page": 3
-  },
-  {
-    "q": 34,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Discusses large margin, support vectors, and margin violations.",
-    "page": 3
-  }
-]
+{
+  "version": "v2",
+  "scores": [
+    {
+      "q": 1,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 2,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'A', expected C",
+      "page": 1
+    },
+    {
+      "q": 3,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 4,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'A', expected C",
+      "page": 1
+    },
+    {
+      "q": 5,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 6,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'C', expected A",
+      "page": 1
+    },
+    {
+      "q": 7,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 8,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 9,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 10,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 11,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 12,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 13,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 14,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 15,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 16,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 17,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'A', expected B",
+      "page": 1
+    },
+    {
+      "q": 18,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 19,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 20,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 21,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Correct concept despite typos; captures labeled data and target prediction.",
+      "page": 1
+    },
+    {
+      "q": 22,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Identifies overfitting and explains high training accuracy with poor generalization to unseen data.",
+      "page": 1
+    },
+    {
+      "q": 23,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Describes feature selection, not estimating relationships between dependent and independent variables.",
+      "page": 1
+    },
+    {
+      "q": 24,
+      "awarded": 1.0,
+      "max": 2.0,
+      "reasoning": "One valid challenge (data collection); model selection is not in the model answer.",
+      "page": 2
+    },
+    {
+      "q": 25,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Student correctly lists healthcare and self-driving cars, two valid data science applications.",
+      "page": 2
+    },
+    {
+      "q": 26,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Covers rows/columns for structured and tags/XML/HTML for semi-structured; equivalent concepts.",
+      "page": 2
+    },
+    {
+      "q": 27,
+      "awarded": 0.5,
+      "max": 2.0,
+      "reasoning": "Mentions IQR detection only; no handling methods described.",
+      "page": 2
+    },
+    {
+      "q": 28,
+      "awarded": 1.5,
+      "max": 2.0,
+      "reasoning": "Covers cleaning and preparation for training, but omits explicit transformation into suitable format.",
+      "page": 3
+    },
+    {
+      "q": 29,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Student omits distance-based nature and feature scale domination; vague claim is incorrect.",
+      "page": 3
+    },
+    {
+      "q": 30,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 31,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Student correctly identifies K as the number of clusters, matching the model answer.",
+      "page": 3
+    },
+    {
+      "q": 32,
+      "awarded": 1.0,
+      "max": 2.0,
+      "reasoning": "Only two valid hyperparameters (k in k-means, KNN neighbors); weight is a learned parameter, not a hyperparameter.",
+      "page": 3
+    },
+    {
+      "q": 33,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 34,
+      "awarded": 1.5,
+      "max": 2.0,
+      "reasoning": "Covers large margin, gutter violations, and small margin across all three, though wording is imprecise.",
+      "page": 3
+    },
+    {
+      "q": 35,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    }
+  ]
+}

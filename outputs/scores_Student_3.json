@@ -1,219 +1,250 @@
-[
-  {
-    "q": 1,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected B",
-    "page": 1
-  },
-  {
-    "q": 2,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected C",
-    "page": 1
-  },
-  {
-    "q": 3,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected A",
-    "page": 1
-  },
-  {
-    "q": 4,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 5,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 6,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected A",
-    "page": 1
-  },
-  {
-    "q": 7,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 8,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected C",
-    "page": 1
-  },
-  {
-    "q": 9,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected A",
-    "page": 1
-  },
-  {
-    "q": 10,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 11,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 12,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 13,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 14,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 15,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected B",
-    "page": 1
-  },
-  {
-    "q": 16,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 17,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected B",
-    "page": 1
-  },
-  {
-    "q": 18,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 19,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected B",
-    "page": 1
-  },
-  {
-    "q": 20,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected B",
-    "page": 1
-  },
-  {
-    "q": 21,
-    "awarded": 1.5,
-    "max": 2,
-    "reasoning": "Identifies supervised learning and labeled data, but limits to classification.",
-    "page": 2
-  },
-  {
-    "q": 23,
-    "awarded": 0.5,
-    "max": 2,
-    "reasoning": "Names regression but describes grouping/searching, not variable relationships.",
-    "page": 2
-  },
-  {
-    "q": 24,
-    "awarded": 0.0,
-    "max": 2,
-    "reasoning": "Lists algorithms instead of machine learning challenges.",
-    "page": 2
-  },
-  {
-    "q": 25,
-    "awarded": 1.5,
-    "max": 2,
-    "reasoning": "Gives valid applications (banking, Netflix) but not model examples.",
-    "page": 2
-  },
-  {
-    "q": 26,
-    "awarded": 1.0,
-    "max": 2,
-    "reasoning": "Structured definition correct; semi-structured definition incorrect/vague.",
-    "page": 3
-  },
-  {
-    "q": 27,
-    "awarded": 0.0,
-    "max": 2,
-    "reasoning": "Incomplete; no outlier detection or handling methods named.",
-    "page": 2
-  },
-  {
-    "q": 28,
-    "awarded": 0.5,
-    "max": 2,
-    "reasoning": "Names preprocessing but defines as data collection, omits cleaning/transformation.",
-    "page": 2
-  },
-  {
-    "q": 29,
-    "awarded": 1.5,
-    "max": 2,
-    "reasoning": "Captures scaling features for k-NN, omits distance domination detail.",
-    "page": 2
-  },
-  {
-    "q": 31,
-    "awarded": 0.5,
-    "max": 2,
-    "reasoning": "Mentions k in k-means but fails to define number of clusters.",
-    "page": 2
-  },
-  {
-    "q": 32,
-    "awarded": 0.0,
-    "max": 2,
-    "reasoning": "Names no hyperparameters; describes a decision boundary instead.",
-    "page": 2
-  },
-  {
-    "q": 34,
-    "awarded": 0.0,
-    "max": 2,
-    "reasoning": "Vague; does not discuss margin maximization or gutter.",
-    "page": 3
-  }
-]
+{
+  "version": "v2",
+  "scores": [
+    {
+      "q": 1,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'D', expected B",
+      "page": 1
+    },
+    {
+      "q": 2,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'A', expected C",
+      "page": 1
+    },
+    {
+      "q": 3,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'D', expected A",
+      "page": 1
+    },
+    {
+      "q": 4,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 5,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 6,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'D', expected A",
+      "page": 1
+    },
+    {
+      "q": 7,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 8,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'A', expected C",
+      "page": 1
+    },
+    {
+      "q": 9,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'C', expected A",
+      "page": 1
+    },
+    {
+      "q": 10,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 11,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 12,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 13,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 14,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 15,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'D', expected B",
+      "page": 1
+    },
+    {
+      "q": 16,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 17,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'A', expected B",
+      "page": 1
+    },
+    {
+      "q": 18,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 19,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'A', expected B",
+      "page": 1
+    },
+    {
+      "q": 20,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'D', expected B",
+      "page": 1
+    },
+    {
+      "q": 21,
+      "awarded": 1.0,
+      "max": 2.0,
+      "reasoning": "Mentions labeled data but wrongly limits to classification; omits inputs/outputs and training.",
+      "page": 2
+    },
+    {
+      "q": 22,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 23,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Describes data grouping/searching, not estimating relationships between dependent and independent variables.",
+      "page": 2
+    },
+    {
+      "q": 24,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Student listed algorithms (linear/logistic regression), not ML challenges; no valid challenge identified.",
+      "page": 2
+    },
+    {
+      "q": 25,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Mobile banking maps to finance; Netflix maps to recommendation systems—both valid applications.",
+      "page": 2
+    },
+    {
+      "q": 26,
+      "awarded": 0.5,
+      "max": 2.0,
+      "reasoning": "Structured row/column correct; semi-structured 'language letters' is vague/incorrect, missing markers or non-grid examples. Partial credit.",
+      "page": 3
+    },
+    {
+      "q": 27,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Answer is incomplete; no detection or handling methods are named.",
+      "page": 2
+    },
+    {
+      "q": 28,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Incorrectly defines pre-processing as data collection; omits cleaning and transformation.",
+      "page": 2
+    },
+    {
+      "q": 29,
+      "awarded": 1.0,
+      "max": 2.0,
+      "reasoning": "Mentions scaling features to same scale but omits distance-based domination rationale.",
+      "page": 2
+    },
+    {
+      "q": 30,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 31,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Student does not state K is the number of clusters; answer is vague and incoherent.",
+      "page": 2
+    },
+    {
+      "q": 32,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Student does not name any valid hyperparameters; response is incoherent/off-topic.",
+      "page": 2
+    },
+    {
+      "q": 33,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 34,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Student does not address margin maximization or gutter; vague and off-topic.",
+      "page": 3
+    },
+    {
+      "q": 35,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    }
+  ]
+}

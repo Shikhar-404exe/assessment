@@ -1,233 +1,250 @@
-[
-  {
-    "q": 1,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected B",
-    "page": 1
-  },
-  {
-    "q": 2,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 3,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected A",
-    "page": 1
-  },
-  {
-    "q": 4,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected C",
-    "page": 1
-  },
-  {
-    "q": 5,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 6,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected A",
-    "page": 1
-  },
-  {
-    "q": 7,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected A",
-    "page": 1
-  },
-  {
-    "q": 8,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected C",
-    "page": 1
-  },
-  {
-    "q": 9,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected A",
-    "page": 1
-  },
-  {
-    "q": 10,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected B",
-    "page": 1
-  },
-  {
-    "q": 11,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 12,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 13,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 14,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 15,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 16,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 17,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 18,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 19,
-    "awarded": 1.0,
-    "max": 1.0,
-    "reasoning": "correct",
-    "page": 1
-  },
-  {
-    "q": 20,
-    "awarded": 0.0,
-    "max": 1.0,
-    "reasoning": "expected B",
-    "page": 1
-  },
-  {
-    "q": 21,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Correctly defines supervised learning using labeled inputs and outputs.",
-    "page": 1
-  },
-  {
-    "q": 22,
-    "awarded": 0.0,
-    "max": 2,
-    "reasoning": "Does not identify overfitting or failure to generalize; off-target.",
-    "page": 3
-  },
-  {
-    "q": 23,
-    "awarded": 0.0,
-    "max": 2,
-    "reasoning": "Circular definition; omits dependent and independent variable relationships.",
-    "page": 3
-  },
-  {
-    "q": 24,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Lists two valid ML challenges: data availability/cost and large data need.",
-    "page": 3
-  },
-  {
-    "q": 25,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Lists two valid data science applications: finance and transportation.",
-    "page": 2
-  },
-  {
-    "q": 26,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Correctly distinguishes structured and semi-structured data with valid examples.",
-    "page": 2
-  },
-  {
-    "q": 27,
-    "awarded": 1.0,
-    "max": 2,
-    "reasoning": "Mentions detection methods only; omits outlier handling techniques.",
-    "page": 2
-  },
-  {
-    "q": 28,
-    "awarded": 1.5,
-    "max": 2,
-    "reasoning": "Covers data cleaning but omits transformation into ML-suitable format.",
-    "page": 2
-  },
-  {
-    "q": 29,
-    "awarded": 1.0,
-    "max": 2,
-    "reasoning": "Mentions K-NN normalization but gives incorrect reasoning about overfitting.",
-    "page": 3
-  },
-  {
-    "q": 30,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Correctly describes discretizing continuous attributes into bins/intervals.",
-    "page": 2
-  },
-  {
-    "q": 31,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Correctly identifies k as the predefined number of clusters.",
-    "page": 3
-  },
-  {
-    "q": 34,
-    "awarded": 2.0,
-    "max": 2,
-    "reasoning": "Correctly links large gutter margin to good classification and points inside to bad.",
-    "page": 2
-  },
-  {
-    "q": 35,
-    "awarded": 1.0,
-    "max": 2,
-    "reasoning": "Mentions kernel distance/hyperplane but omits higher-dimensional transformation.",
-    "page": 3
-  }
-]
+{
+  "version": "v2",
+  "scores": [
+    {
+      "q": 1,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'D', expected B",
+      "page": 1
+    },
+    {
+      "q": 2,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 3,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'B', expected A",
+      "page": 1
+    },
+    {
+      "q": 4,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'A', expected C",
+      "page": 1
+    },
+    {
+      "q": 5,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 6,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'B', expected A",
+      "page": 1
+    },
+    {
+      "q": 7,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'B', expected A",
+      "page": 1
+    },
+    {
+      "q": 8,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'D', expected C",
+      "page": 1
+    },
+    {
+      "q": 9,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'D', expected A",
+      "page": 1
+    },
+    {
+      "q": 10,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'D', expected B",
+      "page": 1
+    },
+    {
+      "q": 11,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 12,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 13,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 14,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 15,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 16,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 17,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 18,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 19,
+      "awarded": 1.0,
+      "max": 1.0,
+      "reasoning": "correct",
+      "page": 1
+    },
+    {
+      "q": 20,
+      "awarded": 0.0,
+      "max": 1.0,
+      "reasoning": "got 'C', expected B",
+      "page": 1
+    },
+    {
+      "q": 21,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Captures labeled data, input-output training, and prediction; equivalent to model answer.",
+      "page": 4
+    },
+    {
+      "q": 22,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Student misses overfitting; incorrectly blames data quality/quantity instead of memorization and poor generalization.",
+      "page": 4
+    },
+    {
+      "q": 23,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Student answer is circular and fails to define relationships between dependent and independent variables.",
+      "page": 4
+    },
+    {
+      "q": 24,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Student identified two valid data-related challenges with brief elucidation.",
+      "page": 4
+    },
+    {
+      "q": 25,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Finance matches model; transportation is a valid major data science application. Both correct.",
+      "page": 4
+    },
+    {
+      "q": 26,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Correctly distinguishes both types with valid examples; matches model answer.",
+      "page": 4
+    },
+    {
+      "q": 27,
+      "awarded": 0.5,
+      "max": 2.0,
+      "reasoning": "Mentions Z-score and IQR for detection only; omits handling methods entirely.",
+      "page": 4
+    },
+    {
+      "q": 28,
+      "awarded": 1.0,
+      "max": 2.0,
+      "reasoning": "Captures cleaning but omits transforming raw data for ML model suitability; partial credit.",
+      "page": 4
+    },
+    {
+      "q": 29,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Student misses distance-based scale domination; cites overfitting/underfitting instead.",
+      "page": 3
+    },
+    {
+      "q": 30,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Correctly describes binning into intervals with a valid example.",
+      "page": 2
+    },
+    {
+      "q": 31,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Student correctly identifies K as the predefined number of clusters; equivalent wording.",
+      "page": 3
+    },
+    {
+      "q": 32,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 33,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "page": null
+    },
+    {
+      "q": 34,
+      "awarded": 2.0,
+      "max": 2.0,
+      "reasoning": "Covers large margin, no data in gutters, and small margin across three classifiers.",
+      "page": 2
+    },
+    {
+      "q": 35,
+      "awarded": 0.0,
+      "max": 2.0,
+      "reasoning": "Student describes margins/hyperplane distance, not RBF similarity or higher-dimensional mapping; incorrect.",
+      "page": 3
+    }
+  ]
+}

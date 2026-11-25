@@ -9,4 +9,4 @@ End-to-end pipeline in `answer_sheet_evaluation.ipynb` for grading digitized han
 7. **Validation Against Teacher Marks**: Aligns automated totals with `Teacher_manual_marks_Anonymized.csv` to compute MAE, exact agreement (±0.5), per-question error, and student-wise score differences.
 8. **Structured Export**: Writes final student marks, metrics, and per-question explanations to `outputs/results.json`, `outputs/results.csv`, and `outputs/student_marks.csv`.
 9. **Setup**: Install `pymupdf`, `opencv-python`, `pandas`, `numpy`, `requests`, and `python-dotenv`, then configure `OPENROUTER_API_KEY` and `MODEL` in `.env`.
-10. **Execution**: Run `answer_sheet_evaluation.ipynb` cells sequentially (`MAX_STUDENTS = 5` by default; validated on 5 students with MAE = 4.50).
+10. **Execution**: Run `answer_sheet_evaluation.ipynb` cells sequentially (`MAX_STUDENTS = 5` by default; validated on 5 students with MAE = 7.40).

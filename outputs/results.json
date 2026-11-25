@@ -2,52 +2,52 @@
   "summary": [
     {
       "student_id": "Student_1",
-      "total_awarded": 29.5,
-      "total_max": 46.0,
-      "percentage": 64.1,
+      "total_awarded": 26.5,
+      "total_max": 50.0,
+      "percentage": 53.0,
       "teacher_total": 33.0,
-      "score_diff": -3.5,
-      "flagged_questions": 0
+      "score_diff": -6.5,
+      "flagged_questions": 2
     },
     {
       "student_id": "Student_2",
-      "total_awarded": 15.5,
-      "total_max": 32.0,
-      "percentage": 48.4,
+      "total_awarded": 14.0,
+      "total_max": 50.0,
+      "percentage": 28.0,
       "teacher_total": 23.0,
-      "score_diff": -7.5,
-      "flagged_questions": 0
+      "score_diff": -9.0,
+      "flagged_questions": 9
     },
     {
       "student_id": "Student_3",
-      "total_awarded": 17.0,
-      "total_max": 42.0,
-      "percentage": 40.5,
+      "total_awarded": 14.5,
+      "total_max": 50.0,
+      "percentage": 29.0,
       "teacher_total": 24.0,
-      "score_diff": -7.0,
-      "flagged_questions": 0
+      "score_diff": -9.5,
+      "flagged_questions": 4
     },
     {
       "student_id": "Student_4",
-      "total_awarded": 33.5,
-      "total_max": 44.0,
-      "percentage": 76.1,
+      "total_awarded": 31.5,
+      "total_max": 50.0,
+      "percentage": 63.0,
       "teacher_total": 36.0,
-      "score_diff": -2.5,
-      "flagged_questions": 0
+      "score_diff": -4.5,
+      "flagged_questions": 3
     },
     {
       "student_id": "Student_5",
-      "total_awarded": 24.0,
-      "total_max": 42.0,
-      "percentage": 57.1,
+      "total_awarded": 18.5,
+      "total_max": 50.0,
+      "percentage": 37.0,
       "teacher_total": 26.0,
-      "score_diff": -2.0,
-      "flagged_questions": 0
+      "score_diff": -7.5,
+      "flagged_questions": 4
     }
   ],
   "evaluation_metrics": {
-    "MAE_total_score": 4.5,
+    "MAE_total_score": 7.4,
     "exact_agreement_count": 0,
     "exact_agreement_pct": 0.0,
     "students_matched": 5
@@ -58,7 +58,7 @@
       "question": 1,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'D', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -78,7 +78,7 @@
       "question": 3,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'B', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -88,7 +88,7 @@
       "question": 4,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected C",
+      "reasoning": "got 'A', expected C",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -108,7 +108,7 @@
       "question": 6,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'B', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -118,7 +118,7 @@
       "question": 7,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'B', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -128,7 +128,7 @@
       "question": 8,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected C",
+      "reasoning": "got 'D', expected C",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -138,7 +138,7 @@
       "question": 9,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'D', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -148,7 +148,7 @@
       "question": 10,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'D', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -248,7 +248,7 @@
       "question": 20,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'C', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -257,8 +257,8 @@
       "student_id": "Student_1",
       "question": 21,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Correctly defines supervised learning using labeled inputs and outputs.",
+      "max_marks": 2.0,
+      "reasoning": "Captures labeled data, input-output training, and prediction; equivalent to model answer.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -267,8 +267,8 @@
       "student_id": "Student_1",
       "question": 22,
       "awarded": 0.0,
-      "max_marks": 2,
-      "reasoning": "Does not identify overfitting or failure to generalize; off-target.",
+      "max_marks": 2.0,
+      "reasoning": "Student misses overfitting; incorrectly blames data quality/quantity instead of memorization and poor generalization.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -277,8 +277,8 @@
       "student_id": "Student_1",
       "question": 23,
       "awarded": 0.0,
-      "max_marks": 2,
-      "reasoning": "Circular definition; omits dependent and independent variable relationships.",
+      "max_marks": 2.0,
+      "reasoning": "Student answer is circular and fails to define relationships between dependent and independent variables.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -287,8 +287,8 @@
       "student_id": "Student_1",
       "question": 24,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Lists two valid ML challenges: data availability/cost and large data need.",
+      "max_marks": 2.0,
+      "reasoning": "Student identified two valid data-related challenges with brief elucidation.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -297,8 +297,8 @@
       "student_id": "Student_1",
       "question": 25,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Lists two valid data science applications: finance and transportation.",
+      "max_marks": 2.0,
+      "reasoning": "Finance matches model; transportation is a valid major data science application. Both correct.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -307,8 +307,8 @@
       "student_id": "Student_1",
       "question": 26,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Correctly distinguishes structured and semi-structured data with valid examples.",
+      "max_marks": 2.0,
+      "reasoning": "Correctly distinguishes both types with valid examples; matches model answer.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -316,9 +316,9 @@
     {
       "student_id": "Student_1",
       "question": 27,
-      "awarded": 1.0,
-      "max_marks": 2,
-      "reasoning": "Mentions detection methods only; omits outlier handling techniques.",
+      "awarded": 0.5,
+      "max_marks": 2.0,
+      "reasoning": "Mentions Z-score and IQR for detection only; omits handling methods entirely.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -326,9 +326,9 @@
     {
       "student_id": "Student_1",
       "question": 28,
-      "awarded": 1.5,
-      "max_marks": 2,
-      "reasoning": "Covers data cleaning but omits transformation into ML-suitable format.",
+      "awarded": 1.0,
+      "max_marks": 2.0,
+      "reasoning": "Captures cleaning but omits transforming raw data for ML model suitability; partial credit.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -336,9 +336,9 @@
     {
       "student_id": "Student_1",
       "question": 29,
-      "awarded": 1.0,
-      "max_marks": 2,
-      "reasoning": "Mentions K-NN normalization but gives incorrect reasoning about overfitting.",
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "Student misses distance-based scale domination; cites overfitting/underfitting instead.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -347,8 +347,8 @@
       "student_id": "Student_1",
       "question": 30,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Correctly describes discretizing continuous attributes into bins/intervals.",
+      "max_marks": 2.0,
+      "reasoning": "Correctly describes binning into intervals with a valid example.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -357,18 +357,38 @@
       "student_id": "Student_1",
       "question": 31,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Correctly identifies k as the predefined number of clusters.",
+      "max_marks": 2.0,
+      "reasoning": "Student correctly identifies K as the predefined number of clusters; equivalent wording.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
     },
     {
       "student_id": "Student_1",
+      "question": 32,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 33,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_1",
       "question": 34,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Correctly links large gutter margin to good classification and points inside to bad.",
+      "max_marks": 2.0,
+      "reasoning": "Covers large margin, no data in gutters, and small margin across three classifiers.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -376,9 +396,9 @@
     {
       "student_id": "Student_1",
       "question": 35,
-      "awarded": 1.0,
-      "max_marks": 2,
-      "reasoning": "Mentions kernel distance/hyperplane but omits higher-dimensional transformation.",
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "Student describes margins/hyperplane distance, not RBF similarity or higher-dimensional mapping; incorrect.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -398,7 +418,7 @@
       "question": 2,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected C",
+      "reasoning": "got 'A', expected C",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -418,7 +438,7 @@
       "question": 4,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected C",
+      "reasoning": "got 'A', expected C",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -438,7 +458,7 @@
       "question": 6,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'C', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -468,7 +488,7 @@
       "question": 9,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'C', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -528,7 +548,7 @@
       "question": 15,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'A', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -548,7 +568,7 @@
       "question": 17,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'A', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -578,7 +598,7 @@
       "question": 20,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'C', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -586,9 +606,9 @@
     {
       "student_id": "Student_2",
       "question": 21,
-      "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Correctly describes supervised learning using labeled examples.",
+      "awarded": 1.0,
+      "max_marks": 2.0,
+      "reasoning": "Mentions labeled data and learning from labels, but definition is imprecise and informal.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -597,8 +617,8 @@
       "student_id": "Student_2",
       "question": 22,
       "awarded": 0.0,
-      "max_marks": 2,
-      "reasoning": "Describes regression, not overfitting or poor generalization.",
+      "max_marks": 2.0,
+      "reasoning": "Off-topic; discusses regression instead of identifying overfitting from train/test accuracy gap.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -607,8 +627,8 @@
       "student_id": "Student_2",
       "question": 23,
       "awarded": 0.0,
-      "max_marks": 2,
-      "reasoning": "Describes KNN normalization, not regression variable relationships.",
+      "max_marks": 2.0,
+      "reasoning": "Student answer discusses KNN normalization, not regression analysis; off-topic.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -617,8 +637,8 @@
       "student_id": "Student_2",
       "question": 24,
       "awarded": 0.0,
-      "max_marks": 2,
-      "reasoning": "Defines preprocessing instead of listing ML challenges.",
+      "max_marks": 2.0,
+      "reasoning": "Student describes preprocessing steps, not two ML challenges; off-topic and incomplete.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -627,18 +647,108 @@
       "student_id": "Student_2",
       "question": 25,
       "awarded": 0.0,
-      "max_marks": 2,
-      "reasoning": "Describes gradient descent, not ML application areas.",
+      "max_marks": 2.0,
+      "reasoning": "Off-topic: describes gradient descent instead of listing data science applications.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
     },
     {
       "student_id": "Student_2",
+      "question": 26,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 27,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 28,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 29,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 30,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 31,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 32,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 33,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 34,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_2",
       "question": 35,
-      "awarded": 0.5,
-      "max_marks": 2,
-      "reasoning": "Names RBF kernel but omits higher-dimensional mapping.",
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "Answer is incoherent and does not explain higher-dimensional transformation or non-linear boundary.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -648,7 +758,7 @@
       "question": 1,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'D', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -658,7 +768,7 @@
       "question": 2,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected C",
+      "reasoning": "got 'A', expected C",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -668,7 +778,7 @@
       "question": 3,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'D', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -698,7 +808,7 @@
       "question": 6,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'D', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -718,7 +828,7 @@
       "question": 8,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected C",
+      "reasoning": "got 'A', expected C",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -728,7 +838,7 @@
       "question": 9,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'C', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -788,7 +898,7 @@
       "question": 15,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'D', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -808,7 +918,7 @@
       "question": 17,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'A', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -828,7 +938,7 @@
       "question": 19,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'A', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -838,7 +948,7 @@
       "question": 20,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'D', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -846,19 +956,29 @@
     {
       "student_id": "Student_3",
       "question": 21,
-      "awarded": 1.5,
-      "max_marks": 2,
-      "reasoning": "Identifies supervised learning and labeled data, but limits to classification.",
+      "awarded": 1.0,
+      "max_marks": 2.0,
+      "reasoning": "Mentions labeled data but wrongly limits to classification; omits inputs/outputs and training.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
     },
     {
       "student_id": "Student_3",
+      "question": 22,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_3",
       "question": 23,
-      "awarded": 0.5,
-      "max_marks": 2,
-      "reasoning": "Names regression but describes grouping/searching, not variable relationships.",
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "Describes data grouping/searching, not estimating relationships between dependent and independent variables.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -867,8 +987,8 @@
       "student_id": "Student_3",
       "question": 24,
       "awarded": 0.0,
-      "max_marks": 2,
-      "reasoning": "Lists algorithms instead of machine learning challenges.",
+      "max_marks": 2.0,
+      "reasoning": "Student listed algorithms (linear/logistic regression), not ML challenges; no valid challenge identified.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -876,9 +996,9 @@
     {
       "student_id": "Student_3",
       "question": 25,
-      "awarded": 1.5,
-      "max_marks": 2,
-      "reasoning": "Gives valid applications (banking, Netflix) but not model examples.",
+      "awarded": 2.0,
+      "max_marks": 2.0,
+      "reasoning": "Mobile banking maps to finance; Netflix maps to recommendation systems—both valid applications.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -886,9 +1006,9 @@
     {
       "student_id": "Student_3",
       "question": 26,
-      "awarded": 1.0,
-      "max_marks": 2,
-      "reasoning": "Structured definition correct; semi-structured definition incorrect/vague.",
+      "awarded": 0.5,
+      "max_marks": 2.0,
+      "reasoning": "Structured row/column correct; semi-structured 'language letters' is vague/incorrect, missing markers or non-grid examples. Partial credit.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -897,8 +1017,8 @@
       "student_id": "Student_3",
       "question": 27,
       "awarded": 0.0,
-      "max_marks": 2,
-      "reasoning": "Incomplete; no outlier detection or handling methods named.",
+      "max_marks": 2.0,
+      "reasoning": "Answer is incomplete; no detection or handling methods are named.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -906,9 +1026,9 @@
     {
       "student_id": "Student_3",
       "question": 28,
-      "awarded": 0.5,
-      "max_marks": 2,
-      "reasoning": "Names preprocessing but defines as data collection, omits cleaning/transformation.",
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "Incorrectly defines pre-processing as data collection; omits cleaning and transformation.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -916,19 +1036,29 @@
     {
       "student_id": "Student_3",
       "question": 29,
-      "awarded": 1.5,
-      "max_marks": 2,
-      "reasoning": "Captures scaling features for k-NN, omits distance domination detail.",
+      "awarded": 1.0,
+      "max_marks": 2.0,
+      "reasoning": "Mentions scaling features to same scale but omits distance-based domination rationale.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
     },
     {
       "student_id": "Student_3",
+      "question": 30,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_3",
       "question": 31,
-      "awarded": 0.5,
-      "max_marks": 2,
-      "reasoning": "Mentions k in k-means but fails to define number of clusters.",
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "Student does not state K is the number of clusters; answer is vague and incoherent.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -937,21 +1067,41 @@
       "student_id": "Student_3",
       "question": 32,
       "awarded": 0.0,
-      "max_marks": 2,
-      "reasoning": "Names no hyperparameters; describes a decision boundary instead.",
+      "max_marks": 2.0,
+      "reasoning": "Student does not name any valid hyperparameters; response is incoherent/off-topic.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
     },
     {
       "student_id": "Student_3",
+      "question": 33,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_3",
       "question": 34,
       "awarded": 0.0,
-      "max_marks": 2,
-      "reasoning": "Vague; does not discuss margin maximization or gutter.",
+      "max_marks": 2.0,
+      "reasoning": "Student does not address margin maximization or gutter; vague and off-topic.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 35,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
     },
     {
       "student_id": "Student_4",
@@ -968,7 +1118,7 @@
       "question": 2,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected C",
+      "reasoning": "got 'A', expected C",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -988,7 +1138,7 @@
       "question": 4,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected C",
+      "reasoning": "got 'A', expected C",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1008,7 +1158,7 @@
       "question": 6,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'C', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1118,7 +1268,7 @@
       "question": 17,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'A', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1157,8 +1307,8 @@
       "student_id": "Student_4",
       "question": 21,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Correctly describes supervised learning with labeled data and target output.",
+      "max_marks": 2.0,
+      "reasoning": "Correct concept despite typos; captures labeled data and target prediction.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1167,8 +1317,8 @@
       "student_id": "Student_4",
       "question": 22,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Identifies overfitting: good on training, poor on unseen/generalization.",
+      "max_marks": 2.0,
+      "reasoning": "Identifies overfitting and explains high training accuracy with poor generalization to unseen data.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1177,8 +1327,8 @@
       "student_id": "Student_4",
       "question": 23,
       "awarded": 0.0,
-      "max_marks": 2,
-      "reasoning": "Describes feature selection, not regression relationships between variables.",
+      "max_marks": 2.0,
+      "reasoning": "Describes feature selection, not estimating relationships between dependent and independent variables.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1187,8 +1337,8 @@
       "student_id": "Student_4",
       "question": 24,
       "awarded": 1.0,
-      "max_marks": 2,
-      "reasoning": "Mentions data collection and model choice; partial coverage of challenges.",
+      "max_marks": 2.0,
+      "reasoning": "One valid challenge (data collection); model selection is not in the model answer.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1197,8 +1347,8 @@
       "student_id": "Student_4",
       "question": 25,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Gives healthcare disease prediction and other valid ML applications.",
+      "max_marks": 2.0,
+      "reasoning": "Student correctly lists healthcare and self-driving cars, two valid data science applications.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1207,8 +1357,8 @@
       "student_id": "Student_4",
       "question": 26,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Correctly contrasts structured (spreadsheet/CSV) and semi-structured (tags/XML).",
+      "max_marks": 2.0,
+      "reasoning": "Covers rows/columns for structured and tags/XML/HTML for semi-structured; equivalent concepts.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1216,9 +1366,9 @@
     {
       "student_id": "Student_4",
       "question": 27,
-      "awarded": 1.0,
-      "max_marks": 2,
-      "reasoning": "Describes outlier detection via IQR only; omits handling methods.",
+      "awarded": 0.5,
+      "max_marks": 2.0,
+      "reasoning": "Mentions IQR detection only; no handling methods described.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1226,9 +1376,9 @@
     {
       "student_id": "Student_4",
       "question": 28,
-      "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Defines preprocessing as cleaning data before model training.",
+      "awarded": 1.5,
+      "max_marks": 2.0,
+      "reasoning": "Covers cleaning and preparation for training, but omits explicit transformation into suitable format.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1236,19 +1386,29 @@
     {
       "student_id": "Student_4",
       "question": 29,
-      "awarded": 0.5,
-      "max_marks": 2,
-      "reasoning": "Links normalization to K-NN but gives incorrect/vague reasoning.",
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "Student omits distance-based nature and feature scale domination; vague claim is incorrect.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
     },
     {
       "student_id": "Student_4",
+      "question": 30,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_4",
       "question": 31,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Correctly states k is the number of clusters in K-means.",
+      "max_marks": 2.0,
+      "reasoning": "Student correctly identifies K as the number of clusters, matching the model answer.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1257,28 +1417,48 @@
       "student_id": "Student_4",
       "question": 32,
       "awarded": 1.0,
-      "max_marks": 2,
-      "reasoning": "Names neighbors in KNN correctly but includes weights and k-means.",
+      "max_marks": 2.0,
+      "reasoning": "Only two valid hyperparameters (k in k-means, KNN neighbors); weight is a learned parameter, not a hyperparameter.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
     },
     {
       "student_id": "Student_4",
+      "question": 33,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_4",
       "question": 34,
-      "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Discusses large margin, support vectors, and margin violations.",
+      "awarded": 1.5,
+      "max_marks": 2.0,
+      "reasoning": "Covers large margin, gutter violations, and small margin across all three, though wording is imprecise.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 35,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
     },
     {
       "student_id": "Student_5",
       "question": 1,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'A', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1288,7 +1468,7 @@
       "question": 2,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected C",
+      "reasoning": "got 'D', expected C",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1318,7 +1498,7 @@
       "question": 5,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'C', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1328,7 +1508,7 @@
       "question": 6,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'B', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1338,7 +1518,7 @@
       "question": 7,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'B', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1358,7 +1538,7 @@
       "question": 9,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected A",
+      "reasoning": "got 'C', expected A",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1418,7 +1598,7 @@
       "question": 15,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'D', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1438,7 +1618,7 @@
       "question": 17,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'A', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1468,7 +1648,7 @@
       "question": 20,
       "awarded": 0.0,
       "max_marks": 1.0,
-      "reasoning": "expected B",
+      "reasoning": "got 'C', expected B",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1477,8 +1657,8 @@
       "student_id": "Student_5",
       "question": 21,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Correctly describes labeled data, inputs, and targets.",
+      "max_marks": 2.0,
+      "reasoning": "Captures labeled data, inputs, and targets; core concept present despite wording.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1486,9 +1666,9 @@
     {
       "student_id": "Student_5",
       "question": 22,
-      "awarded": 1.5,
-      "max_marks": 2,
-      "reasoning": "Identifies high train/low test gap but adds incorrect outlier claim.",
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "Attributes gap to nulls/outliers; does not identify overfitting or poor generalization.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1496,9 +1676,9 @@
     {
       "student_id": "Student_5",
       "question": 23,
-      "awarded": 0.5,
-      "max_marks": 2,
-      "reasoning": "Mentions prediction but misses dependent/independent variable relationships.",
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "Circular definition; omits dependent/independent variables and relationship estimation.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1506,9 +1686,9 @@
     {
       "student_id": "Student_5",
       "question": 24,
-      "awarded": 1.5,
-      "max_marks": 2,
-      "reasoning": "Mentions resource cost and algorithm specificity, though incoherent.",
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "Unclear; does not list two valid ML challenges from model answer.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1517,8 +1697,8 @@
       "student_id": "Student_5",
       "question": 25,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Provides valid data science applications (face, language recognition).",
+      "max_marks": 2.0,
+      "reasoning": "Names two valid real-world applications; equivalent to model examples.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1527,8 +1707,8 @@
       "student_id": "Student_5",
       "question": 26,
       "awarded": 1.5,
-      "max_marks": 2,
-      "reasoning": "Captures structured vs semi-structured distinction but lacks detail.",
+      "max_marks": 2.0,
+      "reasoning": "States structured vs semi-structured loosely; lacks rows/columns and markers detail.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1537,8 +1717,8 @@
       "student_id": "Student_5",
       "question": 27,
       "awarded": 0.0,
-      "max_marks": 2,
-      "reasoning": "Cross-validation is not an outlier detection method.",
+      "max_marks": 2.0,
+      "reasoning": "Cites cross-validation, not an outlier detection/handling method.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1547,8 +1727,8 @@
       "student_id": "Student_5",
       "question": 28,
       "awarded": 2.0,
-      "max_marks": 2,
-      "reasoning": "Accurately describes cleaning and transforming data for modeling.",
+      "max_marks": 2.0,
+      "reasoning": "Covers cleaning, null handling, formatting, and model readiness.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1556,9 +1736,9 @@
     {
       "student_id": "Student_5",
       "question": 29,
-      "awarded": 1.5,
-      "max_marks": 2,
-      "reasoning": "Recognizes distance-based K-NN and need for normalization.",
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "Confuses normalization with output scaling; misses scale domination of distance.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1566,9 +1746,9 @@
     {
       "student_id": "Student_5",
       "question": 30,
-      "awarded": 0.5,
-      "max_marks": 2,
-      "reasoning": "Mentions discretization but incorrectly describes purpose and method.",
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "Incoherent; no binning explanation or example provided.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
@@ -1577,11 +1757,51 @@
       "student_id": "Student_5",
       "question": 31,
       "awarded": 0.0,
-      "max_marks": 2,
+      "max_marks": 2.0,
       "reasoning": "Incorrectly defines K as iterations rather than number of clusters.",
       "confidence": "high",
       "needs_review": false,
       "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 32,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 33,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 34,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 35,
+      "awarded": 0.0,
+      "max_marks": 2.0,
+      "reasoning": "unreadable or unanswered – 0 marks",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "not extracted from pages"
     }
   ]
 }
