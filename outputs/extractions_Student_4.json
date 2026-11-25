@@ -1,0 +1,238 @@
+{
+  "student_id": "Student_4",
+  "filename": "Student_4.pdf",
+  "total_pages": 4,
+  "pages": [
+    {
+      "page": 1,
+      "answers": [
+        {
+          "q": 1,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 2,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 3,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 4,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 5,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 6,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 7,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 8,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 9,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 10,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 11,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 12,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 13,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 14,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 15,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 16,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 17,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 18,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 19,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 20,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 21,
+          "text": "Superursied Learning is the machine Learning algorithm in which dataset is label for the model so that it have has the target to predict.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 22,
+          "text": "Model ML seem to be overfitted that's The reason that is so well in predict the data on the train set however it's so poorly predict what they haven't train which is not good for real time predction.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 23,
+          "text": "Regression analysis is the process of choosing and reducing The feature in the dataset so that it can increase the accuracy of the ML model.",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 1,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_4",
+      "filename": "Student_4.pdf"
+    },
+    {
+      "page": 2,
+      "answers": [
+        {
+          "q": 24,
+          "text": "The challenges in Machine Learning are to find the data set to train the model and to know which model is best for the problem that we're solving.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 25,
+          "text": "Major applications of data science : - Health-Care : with enough data data scientist can use Machine Learning to predict and prevent the patient from heart attack or detect any symptom of some serious illness. also they can use machine learning to come up with new cure for new diseases. - Self-driving car: with the o. - Artificial Intelligent: With machine learning we can create intelligent machine which know and sometime thinks like human.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 26,
+          "text": "Structured data is the organized data that mostly recorded in the form of spreadsheet, database, comma separated value (csv). While Semi-Structured data is a somewhat organize data that store the data with the help of tag and it mostly in xml or html form.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 27,
+          "text": "We can find an outlier in the data by identify whether the data is out of the norm or we can use formula Q1 - 1.5 IQR to find lower boundary or Q3 + 1.5 IQR for upper boundary",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 2,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_4",
+      "filename": "Student_4.pdf"
+    },
+    {
+      "page": 3,
+      "answers": [
+        {
+          "q": 28,
+          "text": "Data pre-processing is the method to clean the data and reduce the unnecessary feature before we can used it for training the model.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 29,
+          "text": "Data normalization is required in K-NN because it help to maximize and minimize the value of the data.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 31,
+          "text": "k in K-mean algorithm is the number of clustering that the algorithm should use.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 32,
+          "text": "hyperparameters are weight, k in k-mean, number of neighbor in KNN.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 34,
+          "text": "The first one is good as the line has large margin an near the support vectors. While the second ones is not as in between the line we can see some data that is out of the good. And the last one seem good but the line is so close each other.",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 3,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_4",
+      "filename": "Student_4.pdf"
+    },
+    {
+      "page": 4,
+      "answers": [],
+      "page_number": 4,
+      "error": null,
+      "status": "needs_review",
+      "student_id": "Student_4",
+      "filename": "Student_4.pdf"
+    }
+  ]
+}

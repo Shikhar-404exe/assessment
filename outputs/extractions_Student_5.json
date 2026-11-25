@@ -1,0 +1,232 @@
+{
+  "student_id": "Student_5",
+  "filename": "Student_5.pdf",
+  "total_pages": 4,
+  "pages": [
+    {
+      "page": 1,
+      "answers": [
+        {
+          "q": 21,
+          "text": "Supervised Learning is machine learning that need to take lable data, they are take variable as the input and return as the target.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 22,
+          "text": "On model M1, we got 99% accuracy for training dataset but with testing data it provide only 30% so it's mean this model is accuracy for training and for testing dataset is may have null value or any outlier data.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 23,
+          "text": "Regression analysis is the way to analysis the predict outcome of result after we made Regression.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 25,
+          "text": "two major application of data Science - Face recognition - language recognition",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 26,
+          "text": "Structured data is the data that have well-structur or well Formate. on the other hand the semi-structured is the data that not well-struct yet, it's still have other Formate exist on data.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 27,
+          "text": "in other to Find Outlier in data: we have several methods but one approach to Find Outlier is to use cross-Validation.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 28,
+          "text": "Data Pre-Processing is the Process to Validate data to make sure that data Before Processing is clean, organize, doesn't have null Value and well formate inorder to train into model.",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 1,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_5",
+      "filename": "Student_5.pdf"
+    },
+    {
+      "page": 2,
+      "answers": [
+        {
+          "q": 29,
+          "text": "Why data normalization is required in K-NN, Because in K-NN is the Machine learning to Fine the near close of difference Class with the distance, while the rnormalization is the way to Fine the Output as 0 or 1 So that we can Use Normalization K-NN to Support normalization to Fine the Output.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 24,
+          "text": "Two Challengos of machine learning - Follow the Pattern or Follow rule and we need to test the output Value with actule Value If the our actule value is big and large it's consume a lot of cost and lesu resource. - one machine learning algorithm is supprot Only Special Problem If we face different issue we need to use another algorithm.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 30,
+          "text": "Continuous attributes are discretized by using the step time So that we can have continuous attributes.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 31,
+          "text": "K in K-means algorithm is the number of k time that we fine the mean vales in K-means.",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 2,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_5",
+      "filename": "Student_5.pdf"
+    },
+    {
+      "page": 3,
+      "answers": [
+        {
+          "q": 1,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 2,
+          "text": "D",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 3,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 4,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 5,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 6,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 7,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 8,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 9,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 10,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 11,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 12,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 13,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 14,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 15,
+          "text": "D",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 16,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 17,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 18,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 19,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 20,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 3,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_5",
+      "filename": "Student_5.pdf"
+    },
+    {
+      "page": 4,
+      "answers": [],
+      "page_number": 4,
+      "error": null,
+      "status": "needs_review",
+      "student_id": "Student_5",
+      "filename": "Student_5.pdf"
+    }
+  ]
+}

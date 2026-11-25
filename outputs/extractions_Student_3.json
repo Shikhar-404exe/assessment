@@ -1,0 +1,244 @@
+{
+  "student_id": "Student_3",
+  "filename": "Student_3.pdf",
+  "total_pages": 4,
+  "pages": [
+    {
+      "page": 1,
+      "answers": [
+        {
+          "q": 1,
+          "text": "D",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 2,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 3,
+          "text": "D",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 4,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 5,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 6,
+          "text": "D",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 7,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 8,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 9,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 10,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 11,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 12,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 13,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 14,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 15,
+          "text": "D",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 16,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 17,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 18,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 19,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 20,
+          "text": "D",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 1,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_3",
+      "filename": "Student_3.pdf"
+    },
+    {
+      "page": 2,
+      "answers": [
+        {
+          "q": 21,
+          "text": "Supervised learning is an algorithm that we use to classify the data that contains label .",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 23,
+          "text": "Regression analysis is a method that we use for search data and then grouping the data . and identifying the data.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 25,
+          "text": "two major applications of data science : Mobile Bank application and Netflix .",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 28,
+          "text": "Data pre-processing is the process for collecting the data source before going to analysis .",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 29,
+          "text": "That Data normalization is required in k-NN because normalization help to scale all the same data for easier to analysis so that k_NN easy for classification .",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 31,
+          "text": "k is a range for does the classify the data in k - means algorithm mean that k - means algorithm do the process based on k .",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 32,
+          "text": "Name few hyperparameters of machine learning algorithms is the best hyperline to make different between classes .",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 28,
+          "text": "based on mind the M1 need to do the classification matrix to find a",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 29,
+          "text": "based on mind the M1 model is not yet the best solution yet since it has only 30% accuracy the data set should use another model then do classification matrix to find the best one.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 24,
+          "text": "Elucidate any two challenges of machine learning : - Linear regression - logistic regression",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 27,
+          "text": "to find the outlier in the data we need to use",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 2,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_3",
+      "filename": "Student_3.pdf"
+    },
+    {
+      "page": 3,
+      "answers": [
+        {
+          "q": 26,
+          "text": "Structured data is the data that contains in row and column. Semi-structured data is the data that we know like language letters, etc.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 34,
+          "text": "based on mind I thought the bellow was : The first and last are classify clear but the middle is not clear.",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 3,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_3",
+      "filename": "Student_3.pdf"
+    },
+    {
+      "page": 4,
+      "answers": [],
+      "page_number": 4,
+      "error": null,
+      "status": "needs_review",
+      "student_id": "Student_3",
+      "filename": "Student_3.pdf"
+    }
+  ]
+}

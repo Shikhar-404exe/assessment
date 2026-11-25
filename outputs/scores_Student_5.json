@@ -1,0 +1,219 @@
+[
+  {
+    "q": 1,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected B",
+    "page": 3
+  },
+  {
+    "q": 2,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected C",
+    "page": 3
+  },
+  {
+    "q": 3,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 3
+  },
+  {
+    "q": 4,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 3
+  },
+  {
+    "q": 5,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected B",
+    "page": 3
+  },
+  {
+    "q": 6,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected A",
+    "page": 3
+  },
+  {
+    "q": 7,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected A",
+    "page": 3
+  },
+  {
+    "q": 8,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 3
+  },
+  {
+    "q": 9,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected A",
+    "page": 3
+  },
+  {
+    "q": 10,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 3
+  },
+  {
+    "q": 11,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 3
+  },
+  {
+    "q": 12,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 3
+  },
+  {
+    "q": 13,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 3
+  },
+  {
+    "q": 14,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 3
+  },
+  {
+    "q": 15,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected B",
+    "page": 3
+  },
+  {
+    "q": 16,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 3
+  },
+  {
+    "q": 17,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected B",
+    "page": 3
+  },
+  {
+    "q": 18,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 3
+  },
+  {
+    "q": 19,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 3
+  },
+  {
+    "q": 20,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected B",
+    "page": 3
+  },
+  {
+    "q": 21,
+    "awarded": 2.0,
+    "max": 2,
+    "reasoning": "Correctly describes labeled data, inputs, and targets.",
+    "page": 1
+  },
+  {
+    "q": 22,
+    "awarded": 1.5,
+    "max": 2,
+    "reasoning": "Identifies high train/low test gap but adds incorrect outlier claim.",
+    "page": 1
+  },
+  {
+    "q": 23,
+    "awarded": 0.5,
+    "max": 2,
+    "reasoning": "Mentions prediction but misses dependent/independent variable relationships.",
+    "page": 1
+  },
+  {
+    "q": 24,
+    "awarded": 1.5,
+    "max": 2,
+    "reasoning": "Mentions resource cost and algorithm specificity, though incoherent.",
+    "page": 2
+  },
+  {
+    "q": 25,
+    "awarded": 2.0,
+    "max": 2,
+    "reasoning": "Provides valid data science applications (face, language recognition).",
+    "page": 1
+  },
+  {
+    "q": 26,
+    "awarded": 1.5,
+    "max": 2,
+    "reasoning": "Captures structured vs semi-structured distinction but lacks detail.",
+    "page": 1
+  },
+  {
+    "q": 27,
+    "awarded": 0.0,
+    "max": 2,
+    "reasoning": "Cross-validation is not an outlier detection method.",
+    "page": 1
+  },
+  {
+    "q": 28,
+    "awarded": 2.0,
+    "max": 2,
+    "reasoning": "Accurately describes cleaning and transforming data for modeling.",
+    "page": 1
+  },
+  {
+    "q": 29,
+    "awarded": 1.5,
+    "max": 2,
+    "reasoning": "Recognizes distance-based K-NN and need for normalization.",
+    "page": 2
+  },
+  {
+    "q": 30,
+    "awarded": 0.5,
+    "max": 2,
+    "reasoning": "Mentions discretization but incorrectly describes purpose and method.",
+    "page": 2
+  },
+  {
+    "q": 31,
+    "awarded": 0.0,
+    "max": 2,
+    "reasoning": "Incorrectly defines K as iterations rather than number of clusters.",
+    "page": 2
+  }
+]

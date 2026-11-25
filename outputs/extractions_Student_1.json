@@ -1,0 +1,293 @@
+{
+  "student_id": "Student_1",
+  "filename": "Student_1.pdf",
+  "total_pages": 4,
+  "pages": [
+    {
+      "page": 1,
+      "answers": [
+        {
+          "q": 1,
+          "text": "D",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 2,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 3,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 4,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 5,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 6,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 7,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 8,
+          "text": "D",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 9,
+          "text": "D",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 10,
+          "text": "D",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 11,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 12,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 13,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 14,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 15,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 16,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 17,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 18,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 19,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 20,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 21,
+          "text": "supervised learning is a machine learning algorithm which we give labeled data as input and expect output as prediction we want.",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 1,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_1",
+      "filename": "Student_1.pdf"
+    },
+    {
+      "page": 2,
+      "answers": [
+        {
+          "q": 26,
+          "text": "Distinguish between structured and semi- Structured data. - structured data are the well organized data such as csv file, excel file. - semi-structured data are the data which are half organized such as JSON, html file.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 28,
+          "text": "Data pre-processing is the process for removing incomplete, incorrect and inaccurate data and replacing missing values.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 25,
+          "text": "List out any 2 major applications of data science : . Financial sector . Transportation sector.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 34,
+          "text": "Comment on the performance of the classifiers . . P1 : good classification . The distance between gutters is large and no data between gutters . P2 : Bad classification . There are data between gutters . P3 : Bad chssification. The distance between gutters is small.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 27,
+          "text": "We find out an Outlier in the data by using Outlier detection technique such as Z-score and IOR .",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 30,
+          "text": "Continuous attributes are discretized by converting to interval form . Example : 1, 5, 9, 10 , 11, 12, 19, 20 -> 1 - 10 , 11 - 20 .",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 2,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_1",
+      "filename": "Student_1.pdf"
+    },
+    {
+      "page": 3,
+      "answers": [
+        {
+          "q": 22,
+          "text": "Comment on Model M1: This model doesn't have high accuracy , so it needs Better training dataset. The training dataset or more than one training dataset.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 24,
+          "text": "Elucidate any 2 challenges of Machine Learning : - Hard to find dataset to work on. ( Dataset are expensive and confidntail. - Required large data to train in order to get accuracy.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 31,
+          "text": "k in k_means algorithm is the pre-defined cluster.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 29,
+          "text": "Data normalization is required in K.NN because after data is normalized it is easy to give K. point, so it will not over fitting or underfitting.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 23,
+          "text": "Regression analysis is the method uses to analysis the output of regression.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 35,
+          "text": "Radial Basis function kernel works by using margin vector to calculate distance margin point and hyperplane.",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 3,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_1",
+      "filename": "Student_1.pdf"
+    },
+    {
+      "page": 4,
+      "answers": [
+        {
+          "q": 21,
+          "text": null,
+          "unreadable": true,
+          "needs_review": true
+        },
+        {
+          "q": 22,
+          "text": null,
+          "unreadable": true,
+          "needs_review": true
+        },
+        {
+          "q": 23,
+          "text": null,
+          "unreadable": true,
+          "needs_review": true
+        },
+        {
+          "q": 24,
+          "text": null,
+          "unreadable": true,
+          "needs_review": true
+        },
+        {
+          "q": 25,
+          "text": null,
+          "unreadable": true,
+          "needs_review": true
+        },
+        {
+          "q": 26,
+          "text": null,
+          "unreadable": true,
+          "needs_review": true
+        },
+        {
+          "q": 27,
+          "text": null,
+          "unreadable": true,
+          "needs_review": true
+        },
+        {
+          "q": 28,
+          "text": null,
+          "unreadable": true,
+          "needs_review": true
+        }
+      ],
+      "page_number": 4,
+      "error": null,
+      "status": "needs_review",
+      "student_id": "Student_1",
+      "filename": "Student_1.pdf"
+    }
+  ]
+}

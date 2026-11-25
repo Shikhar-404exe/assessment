@@ -1,0 +1,220 @@
+{
+  "student_id": "Student_2",
+  "filename": "Student_2.pdf",
+  "total_pages": 4,
+  "pages": [
+    {
+      "page": 1,
+      "answers": [
+        {
+          "q": 1,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 2,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 3,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 4,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 5,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 6,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 7,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 8,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 9,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 10,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 11,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 12,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 13,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 14,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 15,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 16,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 17,
+          "text": "A",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 18,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 19,
+          "text": "B",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 20,
+          "text": "C",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 1,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_2",
+      "filename": "Student_2.pdf"
+    },
+    {
+      "page": 2,
+      "answers": [
+        {
+          "q": 21,
+          "text": "Supervised learning is to make the machine to do what we target it to do. For Example: triangle square we have a label for every sign so machine will learn by knowing it label.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 22,
+          "text": "Regression analysis is for prediction and forecasting. there are 2 value in it which is independence and dependence value or we can call it as input and output",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 23,
+          "text": "data normalization is required KNN because. 1. to get the categories output (0,1) from KNN. 2. and it will understand and can make the data to scale.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 24,
+          "text": "Data pre processing is the way to clean and make ur prepare data before using and it have many step - Data Cleansing - Data transform - Data -",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 25,
+          "text": "Gradient descent is an optimization algorithm which commonly user to train machine learning and Neural Network",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 2,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_2",
+      "filename": "Student_2.pdf"
+    },
+    {
+      "page": 3,
+      "answers": [
+        {
+          "q": 24,
+          "text": "The two Challenge In Machine Learning are. - It hard to make the Machine to learn. Why we want it to learn - take too much time.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 22,
+          "text": "Model M1 have 94% of Accuracy which is give an highest linear regression than to predict. and for the other 30% it really not good for the testing data set.",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 25,
+          "text": "Two major Application of Data science - Linear regression - Logistic regression",
+          "unreadable": false,
+          "needs_review": false
+        },
+        {
+          "q": 35,
+          "text": "Radial Basis Function Kernel work really by finding the right thing to support and also making the good Classification and also the distance.",
+          "unreadable": false,
+          "needs_review": false
+        }
+      ],
+      "page_number": 3,
+      "error": null,
+      "status": "success",
+      "student_id": "Student_2",
+      "filename": "Student_2.pdf"
+    },
+    {
+      "page": 4,
+      "answers": [],
+      "page_number": 4,
+      "error": null,
+      "status": "needs_review",
+      "student_id": "Student_2",
+      "filename": "Student_2.pdf"
+    }
+  ]
+}

@@ -1,0 +1,1587 @@
+{
+  "summary": [
+    {
+      "student_id": "Student_1",
+      "total_awarded": 29.5,
+      "total_max": 46.0,
+      "percentage": 64.1,
+      "teacher_total": 33.0,
+      "score_diff": -3.5,
+      "flagged_questions": 0
+    },
+    {
+      "student_id": "Student_2",
+      "total_awarded": 15.5,
+      "total_max": 32.0,
+      "percentage": 48.4,
+      "teacher_total": 23.0,
+      "score_diff": -7.5,
+      "flagged_questions": 0
+    },
+    {
+      "student_id": "Student_3",
+      "total_awarded": 17.0,
+      "total_max": 42.0,
+      "percentage": 40.5,
+      "teacher_total": 24.0,
+      "score_diff": -7.0,
+      "flagged_questions": 0
+    },
+    {
+      "student_id": "Student_4",
+      "total_awarded": 33.5,
+      "total_max": 44.0,
+      "percentage": 76.1,
+      "teacher_total": 36.0,
+      "score_diff": -2.5,
+      "flagged_questions": 0
+    },
+    {
+      "student_id": "Student_5",
+      "total_awarded": 24.0,
+      "total_max": 42.0,
+      "percentage": 57.1,
+      "teacher_total": 26.0,
+      "score_diff": -2.0,
+      "flagged_questions": 0
+    }
+  ],
+  "evaluation_metrics": {
+    "MAE_total_score": 4.5,
+    "exact_agreement_count": 0,
+    "exact_agreement_pct": 0.0,
+    "students_matched": 5
+  },
+  "per_question_results": [
+    {
+      "student_id": "Student_1",
+      "question": 1,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 2,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 3,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 4,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected C",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 5,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 6,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 7,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 8,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected C",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 9,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 10,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 11,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 12,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 13,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 14,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 15,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 16,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 17,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 18,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 19,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 20,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 21,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Correctly defines supervised learning using labeled inputs and outputs.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 22,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Does not identify overfitting or failure to generalize; off-target.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 23,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Circular definition; omits dependent and independent variable relationships.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 24,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Lists two valid ML challenges: data availability/cost and large data need.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 25,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Lists two valid data science applications: finance and transportation.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 26,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Correctly distinguishes structured and semi-structured data with valid examples.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 27,
+      "awarded": 1.0,
+      "max_marks": 2,
+      "reasoning": "Mentions detection methods only; omits outlier handling techniques.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 28,
+      "awarded": 1.5,
+      "max_marks": 2,
+      "reasoning": "Covers data cleaning but omits transformation into ML-suitable format.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 29,
+      "awarded": 1.0,
+      "max_marks": 2,
+      "reasoning": "Mentions K-NN normalization but gives incorrect reasoning about overfitting.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 30,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Correctly describes discretizing continuous attributes into bins/intervals.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 31,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Correctly identifies k as the predefined number of clusters.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 34,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Correctly links large gutter margin to good classification and points inside to bad.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_1",
+      "question": 35,
+      "awarded": 1.0,
+      "max_marks": 2,
+      "reasoning": "Mentions kernel distance/hyperplane but omits higher-dimensional transformation.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 1,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 2,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected C",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 3,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 4,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected C",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 5,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 6,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 7,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 8,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 9,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 10,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 11,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 12,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 13,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 14,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 15,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 16,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 17,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 18,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 19,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 20,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 21,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Correctly describes supervised learning using labeled examples.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 22,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Describes regression, not overfitting or poor generalization.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 23,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Describes KNN normalization, not regression variable relationships.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 24,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Defines preprocessing instead of listing ML challenges.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 25,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Describes gradient descent, not ML application areas.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_2",
+      "question": 35,
+      "awarded": 0.5,
+      "max_marks": 2,
+      "reasoning": "Names RBF kernel but omits higher-dimensional mapping.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 1,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 2,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected C",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 3,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 4,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 5,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 6,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 7,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 8,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected C",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 9,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 10,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 11,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 12,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 13,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 14,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 15,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 16,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 17,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 18,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 19,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 20,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 21,
+      "awarded": 1.5,
+      "max_marks": 2,
+      "reasoning": "Identifies supervised learning and labeled data, but limits to classification.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 23,
+      "awarded": 0.5,
+      "max_marks": 2,
+      "reasoning": "Names regression but describes grouping/searching, not variable relationships.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 24,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Lists algorithms instead of machine learning challenges.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 25,
+      "awarded": 1.5,
+      "max_marks": 2,
+      "reasoning": "Gives valid applications (banking, Netflix) but not model examples.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 26,
+      "awarded": 1.0,
+      "max_marks": 2,
+      "reasoning": "Structured definition correct; semi-structured definition incorrect/vague.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 27,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Incomplete; no outlier detection or handling methods named.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 28,
+      "awarded": 0.5,
+      "max_marks": 2,
+      "reasoning": "Names preprocessing but defines as data collection, omits cleaning/transformation.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 29,
+      "awarded": 1.5,
+      "max_marks": 2,
+      "reasoning": "Captures scaling features for k-NN, omits distance domination detail.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 31,
+      "awarded": 0.5,
+      "max_marks": 2,
+      "reasoning": "Mentions k in k-means but fails to define number of clusters.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 32,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Names no hyperparameters; describes a decision boundary instead.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_3",
+      "question": 34,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Vague; does not discuss margin maximization or gutter.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 1,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 2,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected C",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 3,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 4,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected C",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 5,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 6,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 7,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 8,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 9,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 10,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 11,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 12,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 13,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 14,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 15,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 16,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 17,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 18,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 19,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 20,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 21,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Correctly describes supervised learning with labeled data and target output.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 22,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Identifies overfitting: good on training, poor on unseen/generalization.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 23,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Describes feature selection, not regression relationships between variables.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 24,
+      "awarded": 1.0,
+      "max_marks": 2,
+      "reasoning": "Mentions data collection and model choice; partial coverage of challenges.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 25,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Gives healthcare disease prediction and other valid ML applications.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 26,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Correctly contrasts structured (spreadsheet/CSV) and semi-structured (tags/XML).",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 27,
+      "awarded": 1.0,
+      "max_marks": 2,
+      "reasoning": "Describes outlier detection via IQR only; omits handling methods.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 28,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Defines preprocessing as cleaning data before model training.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 29,
+      "awarded": 0.5,
+      "max_marks": 2,
+      "reasoning": "Links normalization to K-NN but gives incorrect/vague reasoning.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 31,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Correctly states k is the number of clusters in K-means.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 32,
+      "awarded": 1.0,
+      "max_marks": 2,
+      "reasoning": "Names neighbors in KNN correctly but includes weights and k-means.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_4",
+      "question": 34,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Discusses large margin, support vectors, and margin violations.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 1,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 2,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected C",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 3,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 4,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 5,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 6,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 7,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 8,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 9,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected A",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 10,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 11,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 12,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 13,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 14,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 15,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 16,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 17,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 18,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 19,
+      "awarded": 1.0,
+      "max_marks": 1.0,
+      "reasoning": "correct",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 20,
+      "awarded": 0.0,
+      "max_marks": 1.0,
+      "reasoning": "expected B",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 21,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Correctly describes labeled data, inputs, and targets.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 22,
+      "awarded": 1.5,
+      "max_marks": 2,
+      "reasoning": "Identifies high train/low test gap but adds incorrect outlier claim.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 23,
+      "awarded": 0.5,
+      "max_marks": 2,
+      "reasoning": "Mentions prediction but misses dependent/independent variable relationships.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 24,
+      "awarded": 1.5,
+      "max_marks": 2,
+      "reasoning": "Mentions resource cost and algorithm specificity, though incoherent.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 25,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Provides valid data science applications (face, language recognition).",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 26,
+      "awarded": 1.5,
+      "max_marks": 2,
+      "reasoning": "Captures structured vs semi-structured distinction but lacks detail.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 27,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Cross-validation is not an outlier detection method.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 28,
+      "awarded": 2.0,
+      "max_marks": 2,
+      "reasoning": "Accurately describes cleaning and transforming data for modeling.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 29,
+      "awarded": 1.5,
+      "max_marks": 2,
+      "reasoning": "Recognizes distance-based K-NN and need for normalization.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 30,
+      "awarded": 0.5,
+      "max_marks": 2,
+      "reasoning": "Mentions discretization but incorrectly describes purpose and method.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    },
+    {
+      "student_id": "Student_5",
+      "question": 31,
+      "awarded": 0.0,
+      "max_marks": 2,
+      "reasoning": "Incorrectly defines K as iterations rather than number of clusters.",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": "all signals clear"
+    }
+  ]
+}

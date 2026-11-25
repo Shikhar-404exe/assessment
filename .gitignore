@@ -1,0 +1,14 @@
+# Environment & secrets
+.env
+*.env
+
+# Python virtual environment & cache
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw dataset (170 MB) & large intermediate image caches
+A Dataset of Digitized Student Examination Papers,/
+outputs/processed_pages/
+outputs/comparison_*.png

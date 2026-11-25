@@ -1,0 +1,184 @@
+[
+  {
+    "q": 1,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 2,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected C",
+    "page": 1
+  },
+  {
+    "q": 3,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 4,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected C",
+    "page": 1
+  },
+  {
+    "q": 5,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 6,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected A",
+    "page": 1
+  },
+  {
+    "q": 7,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 8,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 9,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected A",
+    "page": 1
+  },
+  {
+    "q": 10,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 11,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 12,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 13,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 14,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 15,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected B",
+    "page": 1
+  },
+  {
+    "q": 16,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 17,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected B",
+    "page": 1
+  },
+  {
+    "q": 18,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 19,
+    "awarded": 1.0,
+    "max": 1.0,
+    "reasoning": "correct",
+    "page": 1
+  },
+  {
+    "q": 20,
+    "awarded": 0.0,
+    "max": 1.0,
+    "reasoning": "expected B",
+    "page": 1
+  },
+  {
+    "q": 21,
+    "awarded": 2.0,
+    "max": 2,
+    "reasoning": "Correctly describes supervised learning using labeled examples.",
+    "page": 2
+  },
+  {
+    "q": 22,
+    "awarded": 0.0,
+    "max": 2,
+    "reasoning": "Describes regression, not overfitting or poor generalization.",
+    "page": 2
+  },
+  {
+    "q": 23,
+    "awarded": 0.0,
+    "max": 2,
+    "reasoning": "Describes KNN normalization, not regression variable relationships.",
+    "page": 2
+  },
+  {
+    "q": 24,
+    "awarded": 0.0,
+    "max": 2,
+    "reasoning": "Defines preprocessing instead of listing ML challenges.",
+    "page": 2
+  },
+  {
+    "q": 25,
+    "awarded": 0.0,
+    "max": 2,
+    "reasoning": "Describes gradient descent, not ML application areas.",
+    "page": 2
+  },
+  {
+    "q": 35,
+    "awarded": 0.5,
+    "max": 2,
+    "reasoning": "Names RBF kernel but omits higher-dimensional mapping.",
+    "page": 3
+  }
+]
